@@ -27,6 +27,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0283-move-zeroes) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
 | [4299-concatenate-array-with-reverse](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/4299-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -67,6 +68,7 @@
 | [1108-defanging-an-ip-address](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy

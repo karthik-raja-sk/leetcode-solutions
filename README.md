@@ -66,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1108-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -74,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
